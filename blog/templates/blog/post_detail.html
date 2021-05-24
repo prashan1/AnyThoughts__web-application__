@@ -1,0 +1,19 @@
+{% extends 'blog/base.html' %}
+{%block title %} Home {% endblock title%}
+
+{% block content %}
+        <article class="media content-section">
+          <img class="rounded-circle article-img" src="{{ object.author.profile.image.url }}">
+          <div class="media-body">
+            <div class="article-metadata">
+              <a class="mr-2"  href="{% url 'user-post' object.author.username %}">{{ object.author }}</a>
+              <small class="text-muted">{{ object.time_added|date:"F d, Y" }}</small>
+            </div>
+            <h2><a class="article-title" href="#">{{ object.content }}</a></h2>
+            <p class="article-content">{{ object.HashTag }}</p>
+            <a class="btn btn-outline-danger mb-1 mt-1" href="{% url 'delete-post' object.id %}">Delete</a>
+            <a class="btn btn-outline-secondary mb-1 mt-1" href="{% url 'update-post' object.id %}">Update</a>
+          </div>
+        </article>
+
+{% endblock content %}
