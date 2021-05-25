@@ -30,7 +30,8 @@
 # Home Page
 
 ![vlcsnap-2021-05-24-23h28m19s116](https://user-images.githubusercontent.com/57286404/119388347-cbf17b80-bce7-11eb-9e51-7da440d531de.png)
-![127 0 0 1 - ![127 0 0 1 - Google Chrome 18-05-2021 17_43_34](https://user-images.githubusercontent.com/57286404/119387545-b9c30d80-bce6-11eb-8c9a-6cbee5e6a38d.png)oogle Chrome 18-05-2021 17_42_17](https://user-images.githubusercontent.com/57286404/119387533-b760b380-bce6-11eb-9fb5-2d2a8bca0c98.png)
+![127 0 0 1 - Google Chrome 18-05-2021 17_42_17](https://user-images.githubusercontent.com/57286404/119432927-d5ec9c00-bd32-11eb-87a6-42cfb94526ff.png)
+
 
 # Edit your profile
 ![127 0 0 1 - Google Chrome 18-05-2021 17_42_44](https://user-images.githubusercontent.com/57286404/119387535-b891e080-bce6-11eb-96e8-a9ff33555f0b.png)
