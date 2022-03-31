@@ -39,8 +39,6 @@
 ![127 0 0 1 - Google Chrome 18-05-2021 17_43_34](https://user-images.githubusercontent.com/57286404/119387691-ea0aac00-bce6-11eb-804a-161e7c92ce6a.png)
 # Edit your posts
 ![vlcsnap-2021-05-24-23h11m08s021](https://user-images.githubusercontent.com/57286404/119387528-b4fe5980-bce6-11eb-8fb9-5dbce8b07188.png)
-# List all the posts of other users.
-![127 0 0 1 - Google Chrome 18-05-2021 17_43_05](https://user-images.githubusercontent.com/57286404/119387696-ec6d0600-bce6-11eb-903d-d120a1f33e0d.png)
 
 
 
